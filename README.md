@@ -1,6 +1,6 @@
 Para ver su funcionamiento entra en https://quote-app-marcosddp.netlify.app.
 
-Quote App es un reto de https://devchallenges.io. 
+Quote App es un reto de https://devchallenges.io esta creada con Vue js. 
 
 Desafío: crear una aplicación generadora de frases.
 
