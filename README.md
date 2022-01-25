@@ -1,21 +1,17 @@
-# quote-app
+Para ver su funcionamiento entra en https://quote-app-marcosddp.netlify.app.
 
-## Project setup
-```
-npm install
-```
+Quote App es un reto de https://devchallenges.io. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Desafío: crear una aplicación generadora de frases.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Historia de usuario: Puedo ver una cita aleatoria
+Historia de usuario: genero una nueva cotización aleatoria
+Historia de usuario: cuando selecciono el autor de la cita, puedo ver una lista de citas de ellos
+Historia de usuario: Puedo ver el género de citas debajo del autor
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# quote-app
-# quote-app
+
+![Image text](https://i.ibb.co/9WsfFDN/quote2.png)
+
+
+![Image text](https://i.ibb.co/QK9dqwR/quote3.png)
+
